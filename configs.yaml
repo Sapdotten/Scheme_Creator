@@ -1,4 +1,7 @@
 dpi: 300
-background_color: "white"
-pic_name: "test.jpg"
-grid_color: "gray"
+background_color: "white" # цвет фона
+pic_name: "test.jpg" #название файла с пикчей, который получится
+grid_color: "gray" #цвет сетки
+reference_file: "test.txt" #файл с данными
+line_color: "black" #цвет дорожек
+circle_radius: 2 #радиус кружков
